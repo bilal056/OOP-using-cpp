@@ -19,10 +19,9 @@ In this repository, you will find programs ranging from basic concepts like clas
 So far, the repository covers the following topics:
 
 - Classes and Objects
+- composition
 - Inheritance
 - Polymorphism
-- Encapsulation
-- Abstraction
 - Templates
 - Exception Handling
 - File Handling
